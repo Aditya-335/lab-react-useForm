@@ -12,22 +12,20 @@ p{
 }
 
 form{
+  margin-top:100px;
   display: flex;
+  background: #280274;
+  padding: 30px;
   flex-direction: column;
   font-size:15px;
   justify-content: center;
   align-items: center;
-  padding-top:200px;
   color: #fff;
+  margin-right: 443px;
+  margin-left: 443px;
 }
 
-.container{
-  margin-left:550px;
-  height:700px;
-  width: 400px;
-  background: #280274;
 
-}
 input{
   height: 25px;
   width: 300px;

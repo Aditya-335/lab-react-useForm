@@ -16,6 +16,7 @@ function App(){
   return(
     <div className='app'>
       <div className='container'>
+        
       <form className='form' onSubmit={handleSubmit(onSubmit)}>
         {submission && <p>Registration Successful!</p>}
 
